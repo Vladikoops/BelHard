@@ -34,6 +34,9 @@ python detect.py --weights runs/train/exp3/weights/best.pt --img 640 --conf 0.25
 
 The video is in this in this folder(testvideo_res.mp4)
 
+![](/HW5/testvideo_res.gif)
+
+
 ![](/HW5/results.png)
 
 ### F1-confidence curve:  
